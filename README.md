@@ -83,7 +83,8 @@ The full audit and recovery is documented in [docs/data_quality_report.md](docs/
 
 ## Architecture
 
-![Architecture Diagram](docs/architecture.png)
+<img width="1081" height="896" alt="image" src="https://github.com/user-attachments/assets/e51f6260-293d-48cd-8b32-691dcc9139f8" />
+
 
 The pipeline flows in four stages:
 
