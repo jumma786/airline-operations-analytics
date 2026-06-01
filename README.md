@@ -77,8 +77,7 @@ each carrier in the dataset flies from only one airport, so carrier-level
 performance differences cannot be cleanly separated from airport-level
 congestion effects.
 
-The full audit and recovery is documented in [docs/data_quality_report.md](docs/data_quality_report.md).
-
+The full audit and recovery is documented in [docs/data_quality_report.md](docs/data_quality_report.md). 
 ---
 
 ## Architecture
