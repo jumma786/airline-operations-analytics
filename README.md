@@ -17,8 +17,7 @@ cancellations, and on-time performance.
 - 1.83% of flights cancelled (9,056 of 495,771) — a metric the original pipeline
   silently misclassified as on-time zero-delay flights
 
-[![Dashboard Preview]("C:\Users\jumma\Downloads\Airline-Operations-Analytics\docs\screenshots\executive_overview.png"](docs/screenshots/)
-
+"C:\Users\jumma\Downloads\Airline-Operations-Analytics\docs\screenshots\executive_overview.png"
 ---
 
 ## The Project
