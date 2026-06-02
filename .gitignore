@@ -1,6 +1,6 @@
 # Data — large files and not for redistribution
 raw_data/
-cleaned_data/
+cleaned_data/*
 
 # Allow sample data so the repo demonstrates the schema
 !cleaned_data/sample_flights.csv
