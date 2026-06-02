@@ -82,8 +82,12 @@ The full audit and recovery is documented in [docs/data_quality_report.md](docs/
 
 ## Architecture
 
+
 <img width="1081" height="896" alt="image" src="https://github.com/user-attachments/assets/e51f6260-293d-48cd-8b32-691dcc9139f8" />
 
+
+![Architecture Diagram](docs/airline_analytics_architecture.svg)
+(v1.1: add SQL scripts, data dictionary, audit report, dashboard screenshots)
 
 The pipeline flows in four stages:
 
@@ -195,9 +199,8 @@ airline-operations-analytics/
 ├── requirements.txt                   # Python dependencies
 ├── LICENSE                            # MIT
 ├── docs/
-│   ├── architecture.png               # Architecture diagram
+│   ├── architecture.svg              # Architecture diagram
 │   ├── data_quality_report.md         # Full audit story
-│   ├── data_dictionary.md             # Column-by-column reference
 │   └── screenshots/                   # Dashboard page screenshots
 ├── raw_data/                          # Original BTS CSV exports (not committed)
 │   ├── mia_aa.csv
